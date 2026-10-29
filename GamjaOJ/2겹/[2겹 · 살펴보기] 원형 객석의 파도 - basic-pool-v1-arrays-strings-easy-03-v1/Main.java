@@ -24,6 +24,7 @@ public class Main {
                 if(count>1  && arr[i]==first){
                     count--;
                 }
+                
             }
             if(cur != arr[i]){
                 cur = arr[i];
